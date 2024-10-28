@@ -1,1 +1,1 @@
-This is a simple movie finder website which demonstrate the knowledge of HTML, CSS and Javascript along with use of APIs in a web project. 
+This is a simple movie finder website that demonstrates the knowledge of HTML, CSS, and Javascript along with the use of APIs in a web project.
